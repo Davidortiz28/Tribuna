@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "opiniones": [
+    {
+      "id": "10000000-0000-4000-8000-000000000001",
+      "fecha_utc": "2026-11-08T10:00:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Messi encuentra pases que abren espacios y hacen jugar mejor al equipo.",
+      "sentimiento": "positivo",
+      "razon": "Destaca favorablemente su visión y aporte al juego colectivo.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000002",
+      "fecha_utc": "2026-11-08T10:01:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "En este partido perdió varios balones y participó poco en ataque.",
+      "sentimiento": "negativo",
+      "razon": "Señala errores y una participación ofensiva limitada.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000003",
+      "fecha_utc": "2026-11-08T10:02:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Messi es un futbolista que juega como delantero.",
+      "sentimiento": "neutro",
+      "razon": "Describe su posición sin expresar una valoración clara.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000004",
+      "fecha_utc": "2026-11-08T10:03:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Ronaldo define con fuerza, aunque a veces fuerza la jugada individual.",
+      "sentimiento": "mixto",
+      "razon": "Combina un elogio a su definición con una crítica a sus decisiones.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000005",
+      "fecha_utc": "2026-11-08T10:04:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Su movimiento dentro del área crea opciones para recibir y rematar.",
+      "sentimiento": "positivo",
+      "razon": "Valora favorablemente su movimiento y capacidad para generar opciones.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000006",
+      "fecha_utc": "2026-11-08T10:05:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "En esta actuación tuvo dificultades para controlar varios pases.",
+      "sentimiento": "negativo",
+      "razon": "Expresa una crítica a su control del balón en esa actuación.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000007",
+      "fecha_utc": "2026-11-08T10:06:00+00:00",
+      "jugador_id": "j003",
+      "jugador_nombre": "Neymar",
+      "opinion_original": "Neymar suele buscar el uno contra uno cuando recibe abierto.",
+      "sentimiento": "neutro",
+      "razon": "Describe una acción habitual sin aprobarla ni criticarla.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000008",
+      "fecha_utc": "2026-11-08T10:07:00+00:00",
+      "jugador_id": "j003",
+      "jugador_nombre": "Neymar",
+      "opinion_original": "Su creatividad en espacios cortos vuelve más imprevisible el ataque.",
+      "sentimiento": "positivo",
+      "razon": "Elogia su creatividad y el efecto favorable en el ataque.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000009",
+      "fecha_utc": "2026-11-08T10:08:00+00:00",
+      "jugador_id": "j003",
+      "jugador_nombre": "Neymar",
+      "opinion_original": "A veces retiene demasiado el balón y corta el ritmo del equipo.",
+      "sentimiento": "negativo",
+      "razon": "Critica la retención del balón y su efecto en el ritmo colectivo.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000010",
+      "fecha_utc": "2026-11-08T10:09:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "James aporta buenos cambios de orientación, pero su ritmo sin balón puede mejorar.",
+      "sentimiento": "mixto",
+      "razon": "Reconoce un recurso positivo y señala un aspecto por mejorar.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000011",
+      "fecha_utc": "2026-11-08T10:10:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "Cuando recibe entre líneas, puede conectar a los mediocampistas con los delanteros.",
+      "sentimiento": "positivo",
+      "razon": "Resalta favorablemente su capacidad para conectar líneas.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000012",
+      "fecha_utc": "2026-11-08T10:11:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "En algunos partidos le cuesta sostener la intensidad durante todo el encuentro.",
+      "sentimiento": "negativo",
+      "razon": "Señala una dificultad relacionada con la intensidad sostenida.",
+      "modelo": "datos_demo_ficticios",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "149cd3d4-8153-4a2a-96b4-c42a8fada167",
+      "fecha_utc": "2026-11-10T05:55:43+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "El jugador a veces no demuestra su deportividad",
+      "sentimiento": "negativo",
+      "razon": "El texto critica la falta de deportividad del jugador.",
+      "modelo": "openai/gpt-oss-20b",
+      "version_prompt": "1.0"
+    }
+  ]
+}
